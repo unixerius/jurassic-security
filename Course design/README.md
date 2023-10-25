@@ -18,6 +18,14 @@ We shouldn't just start randomly creating content. First, let's make sure we hav
 
 - A proper plan on the course content which fulfils the needs we identified.
 
+## Learning objectives
+
+- The topics which we will cover in detail.
+
+## Learning methods
+
+- Per learning objective, how will we achieve the objecive?
+
 ## End result of the training
 
 - A short abstract which helps attendees understand what they will gain.
