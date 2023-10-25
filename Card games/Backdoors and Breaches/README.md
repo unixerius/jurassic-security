@@ -11,10 +11,13 @@ Here's a first few ideas!
 
 | Category | Name | Concept |
 | -------- | ---- | ------- |
-| Initial compromise | x | x |
+| Initial compromise | "*See? nobody cares!*" | One of your employees is bribed. |
 | Pivot and escalate | x | x |
-| Persistence | Ah ah ah! | The sysadmin left a logic bomb. |
+| Persistence | "*Ah ah ah!*" | The sysadmin left a logic bomb. |
 | C2 and Exfil | Shaving cream | The threat actor manages to steal physical assets. |
-| Procedures | x | x |
-| Injects | It's a Unix system! | Unexpected help from a bystander. |
+| Procedures | Backup generator | Any physical attack is lowered in severity. |
+| Procedures | Documentation | The team can respond more efficiently to the incident. |
+| Injects | "*It's a Unix system!*" | Unexpected help from a bystander. |
+| Injects | "*Clever girl!*" | The threat actor manages to breach a second system. |
+
 
