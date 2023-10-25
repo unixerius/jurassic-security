@@ -41,6 +41,8 @@ We were discussing detering vs preventative security controls, wondering when ex
 
 No! In 2021 [Corey Garst](https://www.linkedin.com/in/coreygarst/) held a one-hour presentation called [*Threat modeling Jurassic Park with Python*](https://www.youtube.com/watch?v=1zauvAsWiDM) at a [Python Frederick](https://python-frederick.github.io) meetup.
 
+Corey's slides and *Jurassic Park* threat models [are here, on Github](https://github.com/cgarst/pytm).
+
 
 # Our plans
 
