@@ -37,6 +37,11 @@ The idea for this project popped up when [Willem Keesman](https://www.linkedin.c
 We were discussing detering vs preventative security controls, wondering when exactly a wall or fence isn't just a preventative control, but also a deterant. A reference was made to "*A Jurassic Park fence!*", which got the ball rolling. 
 
 
+## Are we the first?
+
+No! In 2021 [Corey Garst](https://www.linkedin.com/in/coreygarst/) held a one-hour presentation called [*Threat modeling Jurassic Park with Python*](https://www.youtube.com/watch?v=1zauvAsWiDM) at a [Python Frederick](https://python-frederick.github.io) meetup.
+
+
 # Our plans
 
 First up, we will come up with a course design for the workshop, followed by an outline of the curriculum.
