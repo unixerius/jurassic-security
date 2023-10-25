@@ -34,5 +34,6 @@ A few of these, with thanks to [JurassicSystems.com](https://jurassicsystems.com
 | Injects | "*Holy sh*t, it's a dinosaur!*" | The team discovers the initial compromise by accident. |
 | Injects | "*I can't see without my glasses!*" | An unexpected error in your logging system. |
 | Consultants | "*It's a Unix system!*" | Unexpected help from a bystander. |
+| Consultants | Sally Ettler | SME who will also help with hands-on physical fixes. |
 
 
