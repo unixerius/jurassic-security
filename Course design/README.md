@@ -43,11 +43,47 @@ Our audience can have any of the following motivations to participate:
 
 # Course objectives
 
-- A proper plan on the course content which fulfils the needs we identified.
-
-## Learning objectives
+We will touch upon the following topics.
 
 - The topics which we will cover in detail.
+
+## Course structure
+
+- Welcome and introductions.
+  - Meet the students.
+  - Learn each others goals and needs.
+  - Discuss the agenda for the day.
+- The case: *Jurassic Park*
+  - A short recap of the story.
+  - What went wrong?
+  - What are we going to learn and apply?
+- Vulnerabilities, threats and risks
+  - What are these?
+  - Security incidents.
+  - Practical real life examples.
+  - Examples in *Jurassic Park*.
+- Exercise
+  - Identifying more vulnerabilities, threats and risks.
+- Security controls
+  - Directive, deterent, detective, preventative, compensating, corrective.
+  - Physical, technical, administrative.
+  - Practical real life examples.
+  - Examples in *Jurassic Park*.
+- Exercise
+  - Identifying security controls in *Jurassic Park*.
+  - Identifying failures of security controls. 
+- Risk management
+  - Mitigation, transfer, avoidance, acceptance.
+  - What is acceptance not?
+- Exercise 
+  - **??**
+- Threat modeling
+  - **This probably overlaps a lot of TM-101.**
+  - **This includes exercises.**
+- Closing
+  - Short summary of the day.
+  - What's next? How to proceed?
+  - Feedback forms.
 
 ## Learning methods
 
@@ -58,12 +94,6 @@ Our audience can have any of the following motivations to participate:
 After this workshop, attendees will have a foundational understanding of information security risk management. Attendees will have practiced with security controls, risk management strategies, threat modeling and incident response. 
 
 Attendees will be able to take their first steps in performing essential risk assessment and management tasks on their own projects.
-
-
-# Course structure
-
-- Outline the sections of the workshop. 
-- Add more and more details of activities, goals, etc.
 
 
 # Required prior knowledge
@@ -84,5 +114,10 @@ Trainers running this workshop will need:
 - Post-its, other tools for the attendees.
 
 And of course we can have fun by adding *Jurassic Park* Lego props. 
+
+
+# Gaining feedback
+
+It's a nice idea to prepare a Microsoft Forms, or Google Forms questionnaire where attendees can leave anonymous feedback.
 
 
