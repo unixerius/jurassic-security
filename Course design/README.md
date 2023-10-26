@@ -81,7 +81,13 @@ We will touch upon the following topics.
   - **??**
 - Threat modeling
   - **This probably overlaps a lot of TM-101.**
-  - **This includes exercises.**
+- Excercise
+  - Threat modeling one or two use cases.
+- Incident response
+  - Incident response process
+  - Cyber Attack Kill Chain
+- Exercise
+  - Backdoors and Breaches
 - Closing
   - Short summary of the day.
   - What's next? How to proceed?
