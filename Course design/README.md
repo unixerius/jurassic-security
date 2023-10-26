@@ -27,6 +27,7 @@ An organization may have any of the following needs:
   - Risk management
   - Threat modeling
   - Risk assessment
+  - Business continuity
   - Incident handling
 - Regulatory commitments, which require specific skill sets in employees.
 - Regulatory commitments, which require specific risk management activities.
@@ -74,12 +75,19 @@ We will touch upon the following topics.
   - Identifying failures of security controls. 
 - Risk management
   - Mitigation, transfer, avoidance, acceptance.
+  - Business continuity, disaster recovery.
   - What is acceptance not?
 - Exercise 
   - **??**
 - Threat modeling
   - **This probably overlaps a lot of TM-101.**
-  - **This includes exercises.**
+- Excercise
+  - Threat modeling one or two use cases.
+- Incident response
+  - Incident response process
+  - Cyber Attack Kill Chain
+- Exercise
+  - Backdoors and Breaches
 - Closing
   - Short summary of the day.
   - What's next? How to proceed?
