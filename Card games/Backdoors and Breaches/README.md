@@ -4,6 +4,12 @@ One of our ideas is to create an expansion for the [*Backdoors and Breaches* inc
 
 We will create additional cards, to add character and flavor to the B&B game, loosely based on events and characters from the book.
 
+Here's [a nice, short article](https://cybergladius.com/creating-fun-cybersecurity-tabletop-exercises/) with some pointers about using B&B as training tool, and even for some compliance.
+
+Here's [a few campaign ideas](https://github.com/AntiSyphon/BandBCampaigns), from AntiSyphon.
+
+RedCanary [also made an expansion](https://redcanary.com/blog/backdoors-breaches-expansion-deck/), solid inspiration for us!
+
 
 # Card ideas
 
@@ -23,9 +29,11 @@ A few of these, with thanks to [JurassicSystems.com](https://jurassicsystems.com
 | C2 and Exfil | "*You didn't stop to think...*" | Your developers have some cool shadow IT, which unfortunately opens you up to C2/Exfil. |
 | Procedures | Backup generator | Any physical attack is lowered in severity. |
 | Procedures | Documentation | The team can respond more efficiently to the incident. |
-| Injects | "*It's a Unix system!*" | Unexpected help from a bystander. |
+| Procedures | "*We spared no expense!*" | The team has ample budget to implement counter measures. |
 | Injects | "*Clever girl!*" | The threat actor manages to breach a second system. |
-| Injects | "*Holy sh*t, it's a dinosaur*" | The team discovers the initial compromise by accident. |
+| Injects | "*Holy sh*t, it's a dinosaur!*" | The team discovers the initial compromise by accident. |
 | Injects | "*I can't see without my glasses!*" | An unexpected error in your logging system. |
+| Consultants | "*It's a Unix system!*" | Unexpected help from a bystander. |
+| Consultants | Sally Ettler | SME who will also help with hands-on physical fixes. |
 
 
