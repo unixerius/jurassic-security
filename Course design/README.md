@@ -27,6 +27,7 @@ An organization may have any of the following needs:
   - Risk management
   - Threat modeling
   - Risk assessment
+  - Business continuity
   - Incident handling
 - Regulatory commitments, which require specific skill sets in employees.
 - Regulatory commitments, which require specific risk management activities.
@@ -74,6 +75,7 @@ We will touch upon the following topics.
   - Identifying failures of security controls. 
 - Risk management
   - Mitigation, transfer, avoidance, acceptance.
+  - Business continuity, disaster recovery.
   - What is acceptance not?
 - Exercise 
   - **??**
