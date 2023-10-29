@@ -56,6 +56,7 @@ We will touch upon the following topics.
   - Discuss the agenda for the day.
 - The case: *Jurassic Park*
   - A short recap of the story.
+  - A timeline of the events
   - What went wrong?
   - What are we going to learn and apply?
 - Vulnerabilities, threats and risks
@@ -78,7 +79,7 @@ We will touch upon the following topics.
   - Business continuity, disaster recovery.
   - What is acceptance not?
 - Exercise 
-  - **??**
+  - Create a DRP for Jurassic Park
 - Threat modeling
   - **This probably overlaps a lot of TM-101.**
 - Excercise
@@ -122,6 +123,7 @@ Trainers running this workshop will need:
 - Post-its, other tools for the attendees.
 
 And of course we can have fun by adding *Jurassic Park* Lego props. 
+Lego props may also be used to demonstrate the different (phyiscal) security controls; preventative, detective, corrective.
 
 
 # Gaining feedback
